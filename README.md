@@ -5,3 +5,4 @@ Repo ini digunakan untuk sayembara pencarian volunteer untuk pembuatan website D
 
 Berikut daftar Volunter yang diterima : 
 * Gadis Mustika, [gadis.com](https://gadis.com).
+* Huang Renjun, [renjun.or.id](https://instagram.com/@yellow_3to3)
